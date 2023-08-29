@@ -1,0 +1,21 @@
+a{
+    font-size: 50;
+    text-align: center;
+    text-decoration: none;
+    text-decoration: underline;
+    color: brown;
+}
+html{
+    text-align: center;
+    font-size: 25;
+    font: 'Fjalla+One';
+    background-color: blanchedalmond;
+}
+h1{
+    background-color: bisque;
+    margin-top: -10px;
+}
+img{
+    text-align: center;
+    image-rendering: pixelated;
+}
